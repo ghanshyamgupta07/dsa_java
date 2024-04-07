@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructure-V0/DataStructure-V0.iml" filepath="$PROJECT_DIR$/DataStructure-V0/DataStructure-V0.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dsa_java.iml" filepath="$PROJECT_DIR$/.idea/dsa_java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample_codes/sample_codes.iml" filepath="$PROJECT_DIR$/sample_codes/sample_codes.iml" />
     </modules>
   </component>
 </project>
